@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Arjun. Welcome to my profile, let's connect!</h1>
 <h3 align="center">Living to learn and learning to live.</h3>
 
-<img align="right" alt="coding" width="395" src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif">
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif">
 
 - Feel free to ask me about **data visualization and dashboarding**
 
