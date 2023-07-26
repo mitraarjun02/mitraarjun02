@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="395" src="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif">
 
-- Feel free to ask me about **data visualization and dashboarding**
+- Feel free to ask me about **data visualization and dashboarding.**
 
-- Reach me at **mitra.arjun02@gmail.com**
+- Reach me at **mitra.arjun02@gmail.com.**
 
 - Know about my career & experiences:- [Arjun's resume](https://drive.google.com/drive/folders/1xo_A-sWC3zYWMN8VsBZiLzQ0skkJeN65?usp=drive_link)
 
