@@ -7,7 +7,7 @@
 
 - Reach me at **mitra.arjun02@gmail.com.**
 
-- Know about my career & experiences:- [Arjun's resume](https://drive.google.com/drive/folders/1Tzw-jDbVPqWPkWYcG1IYEHffPOyQU72C)
+- Know more about my career:- [Arjun's resume](https://drive.google.com/drive/folders/1Tzw-jDbVPqWPkWYcG1IYEHffPOyQU72C)
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
